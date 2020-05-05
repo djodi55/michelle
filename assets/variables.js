@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Kak meta", "Meta chan", "Meta"],
+  nicknames: ["Kak meta", "Meta-chan"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
